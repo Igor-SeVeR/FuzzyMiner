@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{8386780E-F63C-428E-B4D8-A487012397E5}</ProjectGuid>
-    <RootNamespace>Fuzzy</RootNamespace>
+    <ProjectGuid>{06BFA30C-AB3D-4FFC-BEC5-8DD47BFE4262}</ProjectGuid>
+    <RootNamespace>FuzzyAlgorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
